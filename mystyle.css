@@ -1,0 +1,27 @@
+body {
+  background-color:darkblue;
+  color:white;
+}
+h1 {
+  font-family:Lucida;
+  text-align:center;
+}
+h3 {
+  font-family:Lucida
+}
+p {
+ font-family:Courier;
+ text-align:left;
+}
+ul {
+  font-family:Courier;    
+}
+ul2 {
+  font-family:Courier;    
+}
+sub {
+  font-style: italic      
+}
+p2 {
+  font-family:Courier;  
+}
