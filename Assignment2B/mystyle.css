@@ -1,0 +1,52 @@
+body {
+  background-color:darkblue;
+  color:white;
+}
+h1 {
+  font-family:Lucida;
+  text-align:center;
+}
+h3 {
+  font-family:Lucida
+}
+p {
+ font-family:Courier;
+ text-align:left;
+ font-size:15px;
+}
+ul {
+  font-family:Courier;
+  font-size:18px;
+  color:darkblue;
+  background-color:lightblue; 
+}
+ul2 {
+  font-family:Courier;
+  font-size:18px;
+  color:yellow;
+  background-color:lightblue;
+}
+sub {
+  font-style: italic      
+}
+p2 {
+  font-family:Courier;  
+}
+p3 {
+  margin:auto;
+  width:50%;
+  border:5px solid white;
+  padding:10px;
+}
+p4 {
+  margin:auto;
+  width:50%;
+  border:5px solid white;
+  padding:10px;
+}
+img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:40%;
+}
